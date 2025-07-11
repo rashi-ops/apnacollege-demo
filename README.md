@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my second repository.
 <br>
-Author - Rashi Verma
+Author - Rashi (apna college)
